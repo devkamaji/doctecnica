@@ -314,7 +314,7 @@ Isso facilita **revisão de código, debugging e entendimento das mudanças**.
 ### Regras recomendadas
 - **Formato sugerido (Conventional Commits)**:  
 
-<tipo>: <descrição curta>
+<*tipo*>: <*descrição curta*>
 
 [descrição detalhada opcional]
 
