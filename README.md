@@ -333,7 +333,7 @@ Isso facilita **revisão de código, debugging e entendimento das mudanças**.
 
 ### Exemplos de commits
 
-feat: adicionar validação de CPF
-fix: corrigir cálculo de juros simples
-docs: atualizar exemplos de payload
-refactor: simplificar método de processamento
+- feat: adicionar validação de CPF
+- fix: corrigir cálculo de juros simples
+- docs: atualizar exemplos de payload
+- refactor: simplificar método de processamento
